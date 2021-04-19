@@ -7,7 +7,7 @@
   <h1 align="center">Just Think It</h1>
 
   <p align="center">
-    Aider un handicapé moteur à acquérir plus d'autonomie avec le ML
+    Aider un handicapé moteur à acquérir plus d'autonomie à partir de l'interprétation des ondes EEG avec le Machine learning
     <br />
     <a href="">Démonstration</a>
     -
