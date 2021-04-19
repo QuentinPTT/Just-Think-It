@@ -7,7 +7,7 @@
   <h1 align="center">Just Think It</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Aider un handicapé moteur à acquérir plus d'autonomie avec le ML
     <br />
     <a href="">Démonstration</a>
     -
