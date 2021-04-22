@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 ## 7 Graphes du diaporama
 
 x1,x2,x3=[1,2,0],[1.9,2.5,0],[1.4,1,0]
