@@ -3,7 +3,7 @@ from csv import reader
 
 class KNN:
     """
-    Librairie KNN
+    Librairie de l'algorithme des k plus proches voisins pour prédire la classe de mes différentes 
     """
 
     def __init__(self, k):
@@ -26,7 +26,7 @@ class KNN:
     Calculer la distance euclidienne pour n dimension de l2 par rapport à l1
     """
     def distance_euclidienne(self, l1, l2):
-        # Initilisation de la ditance
+        # Initilisation de la distance
         distance = 0
         # l2 contient les coordonnées du point à n dimension
         # On calcule la distance euclidienne à n dimension avec la formule
