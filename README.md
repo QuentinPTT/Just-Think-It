@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://i.imgur.com/Rxnr6vy.png">
-    <img src="https://raw.githubusercontent.com/QuentinPTT/Just-Think-It/main/img/banner_jti.png" alt="Logo" height="180">
+    <img src="https://raw.githubusercontent.com/QuentinPTT/Just-Think-It/main/img/banner_jti.png" alt="Logo">
   </a>
   <p align="center">
     Aider un handicapé moteur à acquérir plus d'autonomie à partir de l'interprétation des ondes EEG
