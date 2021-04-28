@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.quentinptt.fr">
-    <img src="https://i.imgur.com/ExQIYW4.png" alt="Logo" height="180">
+    <img src="https://i.imgur.com/Qtw7QpW.png" alt="Logo" height="180">
   </a>
   <p align="center">
     Aider un handicapé moteur à acquérir plus d'autonomie à partir de l'interprétation des ondes EEG
