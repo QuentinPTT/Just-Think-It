@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="quentinptt.github.io">
+  <a href="https://quentinptt.github.io">
     <img src="https://i.imgur.com/Rxnr6vy.png" alt="Logo" height="180">
   </a>
   <p align="center">
