@@ -6,11 +6,11 @@
   <p align="center">
     Aider un handicapé moteur à acquérir plus d'autonomie à partir de l'interprétation des ondes EEG
     <br />
+    <a href="https://quentinptt.github.io/tipe/Explication_KNN.pdf">Présentation</a>
+    -
     <a href="">Démonstration</a>
     -
     <a href="">Compte rendu</a>
-    -
-    <a href="">Présentation</a>
   </p>
 </p>
 
